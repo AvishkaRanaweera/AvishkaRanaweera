@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 600px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 500px></picture>
 
 ##
 - Welcome! I am Avishka Ranaweera, a dedicated student pursuing software engineering degree. Passionate about developing code that solves real-world problems, I am currently honing my skills in C, C++, C#, Java, PHP, Python. Eager to contribute to the ever-evolving technology landscape, one line of code at a time.
